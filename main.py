@@ -1,6 +1,6 @@
 # main.py
 
-from calculator import add, subtract
+from my_calculator import add, subtract
 
 def main():
     num1 = float(input("Enter first number: "))
