@@ -21,4 +21,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-print("sagar sonba padwal")
+print("sagar padwal")
